@@ -1,4 +1,4 @@
-# Modelos no supervisados
+# Modelos supervisados
 
 Taller SatRday Santiago 2018.
 
